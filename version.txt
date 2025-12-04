@@ -6,5 +6,6 @@ expiredversion:0.0.09.20240122
 expiredversion:0.0.09.20240120
 expiredversion:0.0.09.20240115
 expiredversion:0.0.09.20240101
-downloadurl:https://github.com/YasarOlg/DMC-version/releases/download/v0.25.481/FS.Reports.App.exe
+downloadurl:https://github.com/YasarOlg/DMC-version/releases/tag/v.0.25.481/FS.Reports.App.exe
+
 
