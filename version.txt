@@ -1,4 +1,5 @@
-lastversion:V.0.25.486
+lastversion:V.0.25.487
+expiredversion:V.0.25.486
 expiredversion:V.0.25.485
 expiredversion:V.0.25.484
 usableversion:0.0.11.20240322
